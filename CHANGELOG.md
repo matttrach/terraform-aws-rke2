@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.12](https://github.com/matttrach/terraform-aws-rke2/compare/v1.1.11...v1.1.12) (2025-03-07)
+
+
+### Bug Fixes
+
+* remove version constraints ([#214](https://github.com/matttrach/terraform-aws-rke2/issues/214)) ([ba7395b](https://github.com/matttrach/terraform-aws-rke2/commit/ba7395b09f398f19b7b215bbf00512b9f0076684))
+
 ## [1.1.11](https://github.com/rancher/terraform-aws-rke2/compare/v1.1.10...v1.1.11) (2024-10-16)
 
 
